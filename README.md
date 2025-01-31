@@ -1,10 +1,11 @@
 # Spotify SQL Data Analysis
-[Dataset Used](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
-
-![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
+![Spotify Logo](https://github.com/MRANMERA/spotify_sql_da/blob/main/ab047407148e53e2c3ad0761af494925.jpg)
 
 ## Overview
-This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
+This SQL data analysis focuses on extracting insights from a Spotify track dataset. The queries use window functions, aggregations, and filtering techniques to answer various questions related to track popularity, artist rankings, platform preferences, and track characteristics.
+
+[Dataset Used](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+
 
 ### Creating Table
 ```sql
@@ -130,8 +131,4 @@ FROM Artisttrackcount;
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
-## Author
-
-You can connect with the author on [LinkedIn](https://www.linkedin.com/in/anmol1701/).
+If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues and also, you can connect with the author on [LinkedIn](https://www.linkedin.com/in/anmol1701/).
